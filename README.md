@@ -28,3 +28,12 @@ The user interface created with Gradio allows users to input the three measureme
 ## Output
 ![download1 (1)](https://github.com/SaranyaR-btech/Iris_flower-prediction-using-ML/assets/143238930/b06bed6f-d95d-48f5-8950-b606269287f8)
 
+
+## Setup
+
+import pandas as pd
+
+pip install scikit-learn
+
+pip install gradio
+
