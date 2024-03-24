@@ -37,3 +37,5 @@ pip install scikit-learn
 
 pip install gradio
 
+import numpy as np
+
