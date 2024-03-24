@@ -25,5 +25,6 @@ The proposed system in the Iris Flower Prediction project combines a Linear Regr
 At the heart of the system is a Linear Regression model trained on the Iris dataset. This model is designed to understand the relationship between the dimensions of an Iris flower (specifically, its sepal length, sepal width, and petal length) and predict the petal width. The choice of Linear Regression highlights the application of machine learning for regression tasks in a simple yet effective manner.
 ### Gradio Web Interface: 
 The user interface created with Gradio allows users to input the three measurements (sepal length, sepal width, and petal length) and receive a prediction of the petal width. This interface is key to making the Linear Regression model accessible to users without the need for coding knowledge or understanding of the underlying machine learning algorithms.
-## Output 
-![Uploading IMG_20240324_175253.jpg…]()
+## Output
+![download1 (1)](https://github.com/SaranyaR-btech/Iris_flower-prediction-using-ML/assets/143238930/b06bed6f-d95d-48f5-8950-b606269287f8)
+
