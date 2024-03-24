@@ -19,3 +19,9 @@ Gradio is an open-source Python library designed to simplify the process of crea
 
    ![download](https://github.com/SaranyaR-btech/Iris_flower-prediction-using-ML/assets/143238930/f2ce03b9-8e1e-4846-bb41-69eb810d11b6)
 
+## Proposed System
+The proposed system in the Iris Flower Prediction project combines a Linear Regression model with a Gradio interface to predict the petal width of Iris flowers based on their sepal length, sepal width, and petal length. This system serves as an illustrative example of how machine learning models can be applied to predict continuous variables and how these models can be made interactive and accessible through web interfaces.
+### Linear Regression Model:
+At the heart of the system is a Linear Regression model trained on the Iris dataset. This model is designed to understand the relationship between the dimensions of an Iris flower (specifically, its sepal length, sepal width, and petal length) and predict the petal width. The choice of Linear Regression highlights the application of machine learning for regression tasks in a simple yet effective manner.
+### Gradio Web Interface: 
+The user interface created with Gradio allows users to input the three measurements (sepal length, sepal width, and petal length) and receive a prediction of the petal width. This interface is key to making the Linear Regression model accessible to users without the need for coding knowledge or understanding of the underlying machine learning algorithms.
